@@ -1,0 +1,7 @@
+
+{
+  "jwtSecret":  "bazingajwt mern",
+  "port": 5050,
+  "mongoUri": "mongodb+srv://admin:asddsa123@cluster0.0pxrl.mongodb.net/app?retryWrites=true&w=majority",
+  "baseURL" : "http://localhost:5050"
+}
